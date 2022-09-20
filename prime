@@ -1,7 +1,8 @@
-function prime(num){
+
+function prime(N){
 let factor=0;
-for(let i=0;i<=num;i++){
-if(num%i==0);
+for(let i=0;i<=N;i++){
+if(N%i==0);
 {fcator++}
 }if(factor==2){
 return true}
